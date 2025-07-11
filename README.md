@@ -31,7 +31,7 @@
 <ul>
   <li>🌱 Currently learning <strong>Data Structures and Algorithms</strong> using C++ and exploring <strong>Python development</strong> through small projects.</li>
   <li>🛠️ I enjoy building hands-on projects and solving coding problems that enhance logical thinking and programming skills.</li>
-  <li>📁 Created four games and a <strong>MyLeetCode</strong> repository where I upload solutions to LeetCode problems I've solved.</li>
+  <li>📁 Created a few games and a <strong>MyLeetCode</strong> repository where I upload solutions to LeetCode problems I've solved.</li>
   <li>🧠 Fun Fact: You might think I’m boring—until you actually get to know me.</li>
 </ul>
 
