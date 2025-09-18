@@ -13,16 +13,16 @@
   </a>
 </p>
 
-* 😄 Pronouns: he/him
-* 🌱 I’m currently learning **DSA in C++** and exploring **Python projects** with GitHub workflows
-* 📫 How to reach me: **[abdullahforecasts@gmail.com](mailto:abdullahforecasts@gmail.com)**
+* 😄 Pronouns: he/him  
+* 🌱 I’m currently learning **DSA in C++** and exploring **Python projects** with GitHub workflows  
+* 📫 How to reach me: **[abdullahforecasts@gmail.com](mailto:abdullahforecasts@gmail.com)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="http://www.linkedin.com/in/abdullah-nawaz-a756b2310" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-nawaz" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/Abdullah_Nawaz" target="blank">
+  <a href="https://leetcode.com/u/Abdullah_Nawaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abdullah_Nawaz" height="30" width="40" />
   </a>
 </p>
@@ -37,7 +37,7 @@
 
 <h3>⚙️ Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,13 +47,21 @@
 </div>
 
 <h3>📊 GitHub Stats</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahforecasts&show_icons=true&theme=transparent&count_private=true&hide_title=true&custom_title=GitHub%20Stats&hide_border=true" />
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=abdullahforecasts&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
+ 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahforecasts&layout=compact&theme=transparent&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahforecasts&theme=transparent&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahforecasts&theme=radical" alt="Most Used Languages" />
 </div>
+
+
+
+
+
+<h3>🧮 LeetCode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Abdullah_Nawaz?theme=dark&font=Baloo%20Bhai%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 <h3>📬 Contact Me</h3>
 
